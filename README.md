@@ -1,6 +1,6 @@
-# TypeScript-Express
+# TypeScript Express Boilerplate
 
-A basic Hello-World Express server in TypeScript.
+An *extremely* basic Hello-World Express server in TypeScript.
 
 Make sure you have [NPM](https://www.npmjs.com/), [Gulp](https://gulpjs.com/), and [Nodemon](https://github.com/remy/nodemon) installed.
 
