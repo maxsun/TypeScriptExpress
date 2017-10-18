@@ -7,9 +7,9 @@ Make sure you have [NPM](https://www.npmjs.com/), [Gulp](https://gulpjs.com/), a
 ## Getting started:
 
     
-    git clone https://github.com/maxsun/TypeScriptExpress.git
+    git clone https://github.com/maxsun/typescript-express-boilerplate
     
-    cd TypeScriptExpress
+    cd typescript-express-boilerplate/
     
     npm install
     
